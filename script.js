@@ -113,4 +113,4 @@ let weather = {
           if (event.key == "Enter") {
             weather.search();
           }
-        });
+        });   
